@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using these research materials."
+title: "Gravitational-wave lensing magnification: observational information, critical sensitivity, and lens-family shifts"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Fan
+    affiliation: "Zhejiang University; Massachusetts Institute of Technology"
+  - family-names: Kong
+    given-names: Junxiao
+    affiliation: "Zhejiang University; Lanzhou University"
+  - family-names: Zhang
+    given-names: Qikai
+    affiliation: "Zhejiang University"
+  - family-names: Yang
+    given-names: Qiyuan
+    affiliation: "Wuhan University"
+  - family-names: Wei
+    given-names: Shaohan
+    affiliation: "Lanzhou University"
+  - family-names: Fan
+    given-names: Xilong
+    affiliation: "Wuhan University"
+keywords:
+  - gravitational-wave lensing
+  - magnification
+  - SIS
+  - lens-family transfer
+  - uncertainty calibration

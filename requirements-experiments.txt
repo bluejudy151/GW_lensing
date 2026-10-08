@@ -1,0 +1,16 @@
+# Tested package versions in the existing Python 3.12 environment.
+# Prefer the existing working conda environment; this file is a version record.
+numpy==1.26.4
+pandas==3.0.0
+scipy==1.11.4
+scikit-learn==1.8.0
+astropy==7.2.0
+lenstronomy==1.13.5
+tqdm==4.67.3
+torch==2.5.1
+matplotlib==3.10.8
+bilby==2.8.0
+lalsuite==7.26
+gwpy==3.0.13
+numba==0.63.1
+joblib==1.5.3
